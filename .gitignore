@@ -1,0 +1,10 @@
+# Files that belong to other work sitting in this folder, not to this website.
+key.txt
+composio-key.txt
+digest.js
+digest.html
+digest-task.xml
+com.daily-digest.plist
+
+# Local scratch
+_verify.html
